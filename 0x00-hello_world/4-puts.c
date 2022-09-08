@@ -2,8 +2,7 @@
 
 /**
  * main - Entry point
- *
- * Description: printing a string  
+ * Description: printing a string
  * Return: 0
  */
 int main(void)
