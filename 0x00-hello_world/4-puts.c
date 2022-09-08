@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-/** 
- * Using the function puts and not printf
- * The program needs to end with the value 0
+/**
+ * main - Entry point
+ *
+ * Description: printing a string  
+ * Return: The program needs to end with the value 0
  */
 int main(void)
 {
