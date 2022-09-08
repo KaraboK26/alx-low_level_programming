@@ -4,7 +4,7 @@
  * main - Entry point
  *
  * Description: printing a string  
- * Return: The program needs to end with the value 0
+ * Return: 0
  */
 int main(void)
 {
