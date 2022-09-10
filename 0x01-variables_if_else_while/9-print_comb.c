@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - Entry point
  * Description: prints all possible combinations of single digit numbers
@@ -14,8 +13,8 @@ int main(void)
 		putchar(num);
 		if (num != 57)
 		{
-			putchar(",");
-			putchar(" ");
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar("\n");
